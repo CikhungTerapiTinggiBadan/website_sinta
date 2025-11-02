@@ -165,7 +165,7 @@ export default function Home() {
             Klasifikasi Tumbuhan
           </h1>
           <p className="text-white">
-            Dokumentasi dan klasifikasi ilmiah suatu jenis tumbuhan
+            Sirih Cina (Peperomia pellucida)          
           </p>
         </header>
 
@@ -213,7 +213,14 @@ export default function Home() {
 
         <footer className="bg-[#00723b] py-12 px-4 mt-16 text-black">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-2xl font-bold mb-10">Akhir Kata</h2>
+            <h2 className="text-2xl font-bold mb-4 text-white">Daftar Pustaka</h2>
+            <p className="text-white mb-10">Zahra, F., & Afrianti, R. (2024). Uji Aktivitas Antibakteri Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) terhadap Bakteri Propionibacterium acnes. Jurnal Ilmiah Wahana Pendidikan, 10(16), 849-855.
+            <br/><br/>Lestari, A. S., & Pratiwi, A. (2023). Formulasi dan Evaluasi Sediaan Gel Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida L. Kunth) sebagai Antiinflamasi. Jurnal Riset Farmasi, 3(1), 41-47.
+            <br/><br/>Simamora, M., Ginting, B., & Sinaga, K. R. (2022). Uji Efektivitas Antihiperurisemia Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) Terhadap Mencit Jantan yang Diinduksi Kafein. Jurnal Penelitian Farmasi & Herbal, 5(1), 22-27.
+            <br/><br/>Fitri, L., & Khotimah, H. (2022). Formulasi dan Uji Stabilitas Sediaan Serum dari Ekstrak Daun Sirih Cina (Peperomia Pellucida L.) sebagai Antijerawat. Jurnal Ilmiah Farmasi (JIF), 14(1), 1-10.
+            <br/><br/>Nofita, L., Luliana, S., & Agustina, D. (2021). Aktivitas Antioksidan Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida L. Kunth) dengan Metode DPPH. Jurnal Surya Medika, 7(1), 166-172.
+            </p>
+
             {!loading && !error && plants.length > 10 && (
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-6">
                 {footerPlants.map((plant) => (
