@@ -256,7 +256,7 @@ export default function Home() {
               />
 
               {/* Judul */}
-              <h2 className="text-2xl font-bold mb-4 text-black">Daftar Pustaka</h2>
+              <h2 className="text-2xl font-bold mb-4 text-black">Kontak</h2>
 
               {/* Teks */}
               <p className="text-black mb-10 text-sm leading-relaxed">
