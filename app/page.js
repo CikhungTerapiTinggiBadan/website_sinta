@@ -214,7 +214,7 @@ export default function Home() {
         <footer className="bg-[#00723b] py-12 px-4 mt-16 text-black">
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-2xl font-bold mb-4 text-white">Daftar Pustaka</h2>
-            <p className="text-white mb-10">Zahra, F., & Afrianti, R. (2024). Uji Aktivitas Antibakteri Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) terhadap Bakteri Propionibacterium acnes. Jurnal Ilmiah Wahana Pendidikan, 10(16), 849-855.
+            <p className="text-white mb-10 text-sm">Zahra, F., & Afrianti, R. (2024). Uji Aktivitas Antibakteri Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) terhadap Bakteri Propionibacterium acnes. Jurnal Ilmiah Wahana Pendidikan, 10(16), 849-855.
             <br/><br/>Lestari, A. S., & Pratiwi, A. (2023). Formulasi dan Evaluasi Sediaan Gel Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida L. Kunth) sebagai Antiinflamasi. Jurnal Riset Farmasi, 3(1), 41-47.
             <br/><br/>Simamora, M., Ginting, B., & Sinaga, K. R. (2022). Uji Efektivitas Antihiperurisemia Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) Terhadap Mencit Jantan yang Diinduksi Kafein. Jurnal Penelitian Farmasi & Herbal, 5(1), 22-27.
             <br/><br/>Fitri, L., & Khotimah, H. (2022). Formulasi dan Uji Stabilitas Sediaan Serum dari Ekstrak Daun Sirih Cina (Peperomia Pellucida L.) sebagai Antijerawat. Jurnal Ilmiah Farmasi (JIF), 14(1), 1-10.
@@ -245,14 +245,32 @@ export default function Home() {
                 ))}
               </div>
             )}
-            <div className="flex justify-center py-10">
-            <Image
-              src="/images.png"
-              alt="Logo"
-              width={250}
-              height={140}
-            />
-          </div>
+            <div className="flex flex-col items-center justify-center bg-white rounded-lg mt-10 py-10 text-center">
+              {/* Logo */}
+              <Image
+                src="/images2.png"
+                alt="Logo"
+                width={200}
+                height={50}
+                className="mb-6"
+              />
+
+              {/* Judul */}
+              <h2 className="text-2xl font-bold mb-4 text-black">Daftar Pustaka</h2>
+
+              {/* Teks */}
+              <p className="text-black mb-10 text-sm leading-relaxed">
+                Kampus 4 (Kampus Utama)
+                <br />Universitas Ahmad Dahlan
+                <br />Jl. Ahmad Yani (Ringroad Selatan) Tamanan
+                <br />Banguntapan Bantul Yogyakarta 55166
+                <br />Telepon: (0274) 563515, 511830, 379418, 371120
+                <br />Ext.
+                <br />Telepon: ‪+6281-1250-0800‬
+                <br />Faximille: 0274-564604
+                <br />Email: pbio[at]uad.ac.id
+              </p>
+            </div>
           </div>
         </footer>
       </div>
