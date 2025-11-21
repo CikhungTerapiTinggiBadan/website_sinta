@@ -13,39 +13,39 @@ export default function Home() {
       setPlants([
         {
           id: 1,
-          name: "Sirih Cina (Peperomia pellucida)",
-          description: "Peperomia pellucida (L.) Kunth, yang dikenal luas di Indonesia sebagai Sirih Cina atau Ketumpang Air, adalah tanaman herba kecil yang sering kali terabaikan dan dianggap sebagai gulma. Namun, di balik penampilannya yang sederhana, tanaman ini menyimpan potensi farmakologis yang luar biasa dan telah lama dimanfaatkan dalam pengobatan tradisional di berbagai belahan dunia.",
+          name: "Sirih Cina",
+          description: "<i>Peperomia pellucida (L.) Kunth</i>, yang dikenal luas di Indonesia sebagai Sirih Cina atau Ketumpang Air, adalah tanaman herba kecil yang sering kali terabaikan dan dianggap sebagai gulma. Namun, di balik penampilannya yang sederhana, tanaman ini menyimpan potensi farmakologis yang luar biasa dan telah lama dimanfaatkan dalam pengobatan tradisional di berbagai belahan dunia.",
           image: "/cengkeh3.jpg",
         },
         {
           id: 2,
           name: "Nama dan Etimologi",
           description:
-            "Tanaman ini memiliki banyak sekali sebutan, baik di Indonesia maupun di dunia internasional. \n \n Nama Ilmiah : Peperomia pellucida (L.) \n \n Sinonim Ilmiah : Piper pellucidum L. (Ini adalah nama basionim, nama yang pertama kali diberikan oleh Linnaeus sebelum dipindahkan ke genus Peperomia oleh Kunth). \n \n Etimologi (Asal Usul Nama) : \n \n Peperomia : Nama genus ini berasal dari bahasa Yunani 'Peperi' (πέπερι) yang berarti \"lada\" dan \"Homolos\" (ὁμός) yang berarti \"mirip\" atau \"serupa\". Ini merujuk pada kekerabatannya yang dekat dan kemiripannya (terutama pada perbungaan bulir) dengan tanaman lada (Piper nigrum). \n \n Pellucida: Nama spesies ini berasal dari bahasa Latin 'Pellucidus' yang berarti transparan atau tembus cahaya, merujuk pada sifat batangnya yang sukulen, berair, dan tampak bening.",
+            "Tanaman ini memiliki banyak sekali sebutan, baik di Indonesia maupun di dunia internasional. \n \n Nama Ilmiah : <i>Peperomia pellucida (L.)</i> \n \n Sinonim Ilmiah : <i>Piper pellucidum L.</i> (Ini adalah nama basionim, nama yang pertama kali diberikan oleh Linnaeus sebelum dipindahkan ke genus Peperomia oleh Kunth). \n \n Etimologi (Asal Usul Nama) : \n \n <i>Peperomia</i> : Nama genus ini berasal dari bahasa Yunani 'Peperi' (πέπερι) yang berarti \"lada\" dan \"Homolos\" (ὁμός) yang berarti \"mirip\" atau \"serupa\". Ini merujuk pada kekerabatannya yang dekat dan kemiripannya (terutama pada perbungaan bulir) dengan tanaman lada (Piper nigrum). \n \n <i>Pellucida</i> : Nama spesies ini berasal dari bahasa Latin 'Pellucidus' yang berarti transparan atau tembus cahaya, merujuk pada sifat batangnya yang sukulen, berair, dan tampak bening.",
           image: "/cengkeh2.jpg",
         },
         {
           id: 3,
           name: "Nama Umum di Indonesia :",
-          description: "Sirih Cina \n Ketumpang Air / Tumpang Air \n Suruhan (Jawa) \n Sasaladaan (Sunda) \n Rangu-rangu (Jawa) \n Gofu Goroho (Ternate) \n Saladaan (Betawi/Jakarta) \n Kaca-kaca (Sulawesi) \n\n Nama Internasional : \n\n English: Pepper elder, Shining bush plant, Rat-ear \n Filipina: Ulasimang-bato, Pansit-pansitan \n Vietnam: Càng Cua \n Spanyol: Hierba de Sapo, Corazón de hombre \n Brasil: Erva-de-jaboti",
+          description: "Sirih Cina \n Ketumpang Air / Tumpang Air \n Suruhan (Jawa) \n Sasaladaan (Sunda) \n Rangu-rangu (Jawa) \n Gofu Goroho (Ternate) \n Saladaan (Betawi/Jakarta) \n Kaca-kaca (Sulawesi) \n\n <Strong>Nama Internasional :</Strong>\n English: Pepper elder, Shining bush plant, Rat-ear \n Filipina: Ulasimang-bato, Pansit-pansitan \n Vietnam: Càng Cua \n Spanyol: Hierba de Sapo, Corazón de hombre \n Brasil: Erva-de-jaboti",
           image: "/cengkeh1.jpg",
         },
         {
           id: 4,
           name: "Sejarah, Asal, dan Penyebaran",
-          description: "Asal-Usul : Sirih cina adalah tanaman neotropis, yang berarti ia berasal dari wilayah tropis Dunia Baru. Daerah asalnya mencakup Amerika Tengah dan Amerika Selatan tropis, dari Florida di Amerika Serikat, melalui Karibia, hingga ke Argentina. \n  \n Sejarah Penyebaran : Tanaman ini kini telah menjadi \"gulma pantropis\", yang berarti telah menyebar dan tumbuh liar di hampir seluruh wilayah tropis di dunia (Asia, Afrika, dan Oseania). Penyebarannya kemungkinan besar terjadi secara tidak sengaja melalui aktivitas manusia, seperti kontaminasi pada media tanam, biji-bijian, atau melalui perdagangan tanaman hias. \n  \n Habitat di Indonesia : Di Indonesia, sirih cina tumbuh sebagai tanaman liar yang dinaturalisasi. Ia adalah tanaman sciophyte, yang menyukai tempat-tempat lembab dan teduh. Habitat idealnya adalah di area dengan drainase buruk, tanah gembur kaya bahan organik, dan ternaungi. Anda sangat mudah menemukannya di : \n Pekarangan rumah yang rimbun \n Retakan tembok atau paving blok \n Dasar pot tanaman \n Pinggir selokan atau saluran air \n Di bawah naungan pohon besar",
+          description: "Asal-Usul : Sirih cina adalah tanaman neotropis, yang berarti ia berasal dari wilayah tropis Dunia Baru. Daerah asalnya mencakup Amerika Tengah dan Amerika Selatan tropis, dari Florida di Amerika Serikat, melalui Karibia, hingga ke Argentina. \n  \n Sejarah Penyebaran : Tanaman ini kini telah menjadi \"gulma pantropis\", yang berarti telah menyebar dan tumbuh liar di hampir seluruh wilayah tropis di dunia (Asia, Afrika, dan Oseania). Penyebarannya kemungkinan besar terjadi secara tidak sengaja melalui aktivitas manusia, seperti kontaminasi pada media tanam, biji-bijian, atau melalui perdagangan tanaman hias. \n  \n Habitat di Indonesia : Di Indonesia, sirih cina tumbuh sebagai tanaman liar yang dinaturalisasi. Ia adalah tanaman sciophyte, yang menyukai tempat-tempat lembab dan teduh.",
           image: "/cengkeh4.jpg",
         },
         {
           id: 5,
           name: "Klasifikasi Ilmiah (Taksonomi)",
-          description: "Berikut adalah kedudukan taksonomi Peperomia pellucida dalam kerajaan tumbuhan : \n  \n Kingdom : Plantae (Tumbuhan) \n  \n Subkingdom : Tracheobionta (Tumbuhan berpembuluh) \n  \n Superdivisi : Spermatophyta (Menghasilkan biji) \n  \n Divisi : Magnoliophyta (Tumbuhan berbunga) \n  \n Kelas : Magnoliopsida (Berkeping dua / Dikotil) \n  \n Subkelas : Magnoliidae \n  \n Ordo: Piperales (Bangsa sirih-sirihan) \n  \n Famili : Piperaceae (Suku sirih-sirihan) \n  \n Genus : Peperomia \n  \n Spesies : Peperomia pellucida (L.) Kunth",
+          description: "Berikut adalah kedudukan taksonomi Peperomia pellucida dalam kerajaan tumbuhan : \n  \n Kingdom : <i>Plantae</i> (Tumbuhan) \n  \n Subkingdom : <i>Tracheobionta</i> (Tumbuhan berpembuluh) \n  \n Superdivisi : <i>Spermatophyta</i> (Menghasilkan biji) \n  \n Divisi : <i>Magnoliophyta</i> (Tumbuhan berbunga) \n  \n Kelas : <i>Magnoliopsida</i> (Berkeping dua / Dikotil) \n  \n Subkelas : <i>Magnoliidae</i> \n  \n Ordo: <i>Piperales</i> (Bangsa sirih-sirihan) \n  \n Famili : <i>Piperaceae</i> (Suku sirih-sirihan) \n  \n Genus : <i>Peperomia</i> \n  \n Spesies : <i>Peperomia pellucida (L.) Kunth</i>",
           image: "/cengkeh5.jpg",
         },
         {
           id: 6,
           name: "Deskripsi Morfologi (Ciri-Ciri Tanaman)",
-          description: "Sirih cina memiliki karakteristik fisik yang sangat khas : \n  \n Habitus (Bentuk Tumbuh) : Herba kecil, semusim (annual) atau terkadang tahunan berumur pendek. Tumbuh tegak atau kadang sedikit menjalar, dengan tinggi rata-rata 15-45 cm. \n  \n Akar : Sistem perakaran serabut yang sangat dangkal, berwarna putih, dan mudah dicabut. \n  \n Batang : Sangat sukulen (berdaging tebal dan berair), lunak, rapuh (mudah patah), dan tampak transparan (bening). Berwarna hijau muda pucat, berbentuk bulat, dan beruas-ruas. \n  \n Daun : \n  \n Tipe : Daun tunggal. \n  \n Letak : Berseling (alternate), namun di bagian atas batang kadang tampak berhadapan (opposite) atau dalam karangan (whorled). \n  \n Tangkai (Petiolus) : Panjangnya sekitar 5-20 mm. \n  \n Helaian (Lamina) : Berbentuk jantung (cordate) atau segitiga membulat (deltoid-ovate). Ukurannya sekitar 1-4 cm. Ujungnya runcing (acuminate), pangkalnya berbentuk jantung (cordate) atau tumpul. \n  \n Tekstur : Berdaging (carnosus), lunak, dan mengilap (glossy) di permukaan atas seolah berlapis lilin tipis. \n  \n Warna : Hijau muda cerah. \n  \n Aroma : Jika diremas, daun akan mengeluarkan aroma khas yang sedikit pedas, mirip lada. \n  \n Bunga : \n  \n Tipe Perbungaan : Majemuk, tersusun dalam rangkaian bulir (spika) yang ramping seperti ekor tikus, tumbuh di ujung batang (terminal) atau ketiak daun (aksilar), seringkali berhadapan dengan daun. \n  \n Panjang Bulir : 1 hingga 7 cm. \n  \n Bunga : Sangat kecil (mikroskopis), duduk langsung di sumbu bulir, tidak memiliki kelopak maupun mahkota bunga (aperianth). Setiap bunga dilindungi oleh braktea (daun pelindung) kecil berbentuk perisai. \n  \n Buah dan Biji : \n  \n Tipe Buah : Buah batu (drupa) yang sangat kecil, berdiameter kurang dari 1 mm. \n  \n Bentuk : Bulat (globose). \n  \n Warna : Awalnya hijau, berubah menjadi coklat muda, lalu coklat kehitaman saat matang. \n  \n Tekstur Buah : Seringkali lengket dan memiliki bintik-bintik (papillose), yang membantunya menempel pada hewan atau benda lain untuk penyebaran.",
+          description: "Sirih cina memiliki karakteristik fisik yang sangat khas : \n  \n Habitus (Bentuk Tumbuh) : Herba kecil, semusim (annual) atau terkadang tahunan berumur pendek. Tumbuh tegak atau kadang sedikit menjalar, dengan tinggi rata-rata 15-45 cm. \n  \n Akar : Sistem perakaran serabut yang sangat dangkal, berwarna putih, dan mudah dicabut. \n  \n Batang : Sangat sukulen (berdaging tebal dan berair), lunak, rapuh (mudah patah), dan tampak transparan (bening). Berwarna hijau muda pucat, berbentuk bulat, dan beruas-ruas. \n  \n <Strong>Daun :</Strong> \n  \n Tipe : Daun tunggal. \n  \n Letak : Berseling (alternate), namun di bagian atas batang kadang tampak berhadapan (opposite) atau dalam karangan (whorled). \n  \n Tangkai (Petiolus) : Panjangnya sekitar 5-20 mm. \n  \n Helaian (Lamina) : Berbentuk jantung (cordate) atau segitiga membulat (deltoid-ovate). Ukurannya sekitar 1-4 cm. Ujungnya runcing (acuminate), pangkalnya berbentuk jantung (cordate) atau tumpul. \n  \n Tekstur : Berdaging (carnosus), lunak, dan mengilap (glossy) di permukaan atas seolah berlapis lilin tipis. \n  \n Warna : Hijau muda cerah. \n  \n Aroma : Jika diremas, daun akan mengeluarkan aroma khas yang sedikit pedas, mirip lada. \n  \n <Strong>Bunga :</Strong> \n  \n Tipe Perbungaan : Majemuk, tersusun dalam rangkaian bulir (spika) yang ramping seperti ekor tikus, tumbuh di ujung batang (terminal) atau ketiak daun (aksilar), seringkali berhadapan dengan daun. \n  \n Panjang Bulir : 1 hingga 7 cm. \n  \n Bunga : Sangat kecil (mikroskopis), duduk langsung di sumbu bulir, tidak memiliki kelopak maupun mahkota bunga (aperianth). Setiap bunga dilindungi oleh braktea (daun pelindung) kecil berbentuk perisai. \n  \n <Strong>Buah dan Biji :</Strong> \n  \n Tipe Buah : Buah batu (drupa) yang sangat kecil, berdiameter kurang dari 1 mm. \n  \n Bentuk : Bulat (globose). \n  \n Warna : Awalnya hijau, berubah menjadi coklat muda, lalu coklat kehitaman saat matang. \n  \n Tekstur Buah : Seringkali lengket dan memiliki bintik-bintik (papillose), yang membantunya menempel pada hewan atau benda lain untuk penyebaran.",
           image: "/cengkeh6.png",
         },
         {
@@ -60,7 +60,7 @@ export default function Home() {
           description: `
             Sirih cina digunakan secara luas di berbagai negara untuk tujuan kuliner dan pengobatan.
 
-            A. Penggunaan Tradisional (Etnobotani & Etnofarmakologi)
+            <Strong>Penggunaan Tradisional (Etnobotani & Etnofarmakologi)</Strong>
             Di berbagai belahan dunia, tanaman ini dipercaya untuk mengobati berbagai penyakit :
 
             Indonesia :
@@ -86,7 +86,7 @@ export default function Home() {
             Filipina : Sangat populer sebagai obat asam urat dan rematik.
             Vietnam : Digunakan dalam salad (sebagai Càng Cua) dan untuk mengobati sakit kepala.
 
-            + Manfaat Berdasarkan Penelitian Ilmiah (Farmakologi)
+            <Strong>Manfaat Berdasarkan Penelitian Ilmiah (Farmakologi)</Strong>
 
             Antihiperurisemia (Menurunkan Asam Urat) :
             Ekstrak sirih cina terbukti dapat menurunkan kadar asam urat dalam darah pada hewan uji (tikus).
@@ -161,11 +161,11 @@ export default function Home() {
       {/* --- Konten utama (isi baru, dari kode kamu) --- */}
       <div className="pt-16">
         <header className="bg-[#00723b] py-20 text-center px-4">
-          <h1 className="text-3xl font-bold text-white mb-2">
-            Klasifikasi Tumbuhan
+          <h1 className="text-5xl font-bold text-white mb-2">
+            Sirih Cina
           </h1>
-          <p className="text-white">
-            Sirih Cina (Peperomia pellucida)          
+          <p className="text-white italic">
+            (Peperomia pellucida)          
           </p>
         </header>
 
@@ -199,11 +199,13 @@ export default function Home() {
                       className="object-cover"
                     />
                   </div>
+                  <p className="text-xs italic" >sumber : Freepik.com </p>
                   <div className="p-4">
                     <h3 className="font-bold text-lg mb-2">{plant.name}</h3>
-                    <p className="text-sm text-gray-700 whitespace-pre-line">
-                      {plant.description}
-                    </p>
+                    <p 
+                      dangerouslySetInnerHTML={{ __html: plant.description }} 
+                      className="text-sm text-gray-700 whitespace-pre-line" 
+                    /> 
                   </div>
                 </div>
               ))}
@@ -213,7 +215,7 @@ export default function Home() {
 
         <footer className="bg-[#00723b] py-12 px-4 mt-16 text-black">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-2xl font-bold mb-4 text-white">Daftar Pustaka</h2>
+            <h2 className="text-2xl font-bold mb-4 text-white">Daftar Pustaka & Pustaka  Gambar</h2>
             <p className="text-white mb-10 text-sm">Zahra, F., & Afrianti, R. (2024). Uji Aktivitas Antibakteri Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) terhadap Bakteri Propionibacterium acnes. Jurnal Ilmiah Wahana Pendidikan, 10(16), 849-855.
             <br/><br/>Lestari, A. S., & Pratiwi, A. (2023). Formulasi dan Evaluasi Sediaan Gel Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida L. Kunth) sebagai Antiinflamasi. Jurnal Riset Farmasi, 3(1), 41-47.
             <br/><br/>Simamora, M., Ginting, B., & Sinaga, K. R. (2022). Uji Efektivitas Antihiperurisemia Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) Terhadap Mencit Jantan yang Diinduksi Kafein. Jurnal Penelitian Farmasi & Herbal, 5(1), 22-27.
@@ -229,7 +231,8 @@ export default function Home() {
                     className="bg-white rounded-lg shadow hover:shadow-lg transition-shadow overflow-hidden"
                   >
                     <div className="relative w-full aspect-square">
-                      <Image                          src={plant.image}
+                      <Image                          
+                        src={plant.image}
                         alt={plant.name}
                         fill
                         className="object-cover"
@@ -237,9 +240,10 @@ export default function Home() {
                     </div>
                     <div className="p-4">
                       <h3 className="font-bold text-lg mb-2">{plant.name}</h3>
-                      <p className="text-sm text-gray-700 whitespace-pre-line">
-                        {plant.description}
-                      </p>
+                      <p 
+                        dangerouslySetInnerHTML={{ __html: plant.description }} 
+                        className="text-sm text-gray-700 whitespace-pre-line" 
+                      /> 
                     </div>
                   </div>
                 ))}
