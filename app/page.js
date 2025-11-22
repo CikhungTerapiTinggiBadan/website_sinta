@@ -215,7 +215,8 @@ export default function Home() {
 
         <footer className="bg-[#00723b] py-12 px-4 mt-16 text-black">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-2xl font-bold mb-4 text-white">Daftar Pustaka & Pustaka  Gambar</h2>
+            <h2 className="text-2xl font-bold mb-2 text-white">Daftar Pustaka & Pustaka  Gambar</h2>
+            <hr className="text-white text-xl mb-6"></hr>
             <p className="text-white mb-10 text-sm">Zahra, F., & Afrianti, R. (2024). Uji Aktivitas Antibakteri Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) terhadap Bakteri Propionibacterium acnes. Jurnal Ilmiah Wahana Pendidikan, 10(16), 849-855.
             <br/><br/>Lestari, A. S., & Pratiwi, A. (2023). Formulasi dan Evaluasi Sediaan Gel Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida L. Kunth) sebagai Antiinflamasi. Jurnal Riset Farmasi, 3(1), 41-47.
             <br/><br/>Simamora, M., Ginting, B., & Sinaga, K. R. (2022). Uji Efektivitas Antihiperurisemia Ekstrak Etanol Daun Sirih Cina (Peperomia pellucida (L.) Kunth) Terhadap Mencit Jantan yang Diinduksi Kafein. Jurnal Penelitian Farmasi & Herbal, 5(1), 22-27.
